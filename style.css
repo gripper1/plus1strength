@@ -1,9 +1,9 @@
 h1{
-  align-content: center;
+  text-align: center;
   color:red;
 }
 
 p{
-  align-content: center;
+  text-align: center;
   color:blue;
 }
